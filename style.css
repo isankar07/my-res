@@ -1,9 +1,14 @@
 
 h2{
+    color: rgb(0, 225, 255);
     margin: 0;
     text-align: center;
 }
+h3{
+    color: rgb(0,225 , 255);
+}
 h4{
+    color: rgb(0,225 , 255);
     margin: 0;
     padding: 0;
 }
@@ -19,4 +24,10 @@ body{
     background-image: url('wallpaperflare.com_wallpaper\ \(8\).jpg');
     backdrop-filter: blur(3px);
     
-}  
+}    
+p{
+    color: rgb(0,225 , 255);
+}
+li{
+    color: rgb(0, 225, 255);
+}
