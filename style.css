@@ -20,3 +20,9 @@ body{
     backdrop-filter: blur(3px);
     
 }    
+p{
+    color: rgb(0,225 , 255);
+}
+li{
+    color: rgb(0,225 , 255);
+}
