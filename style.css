@@ -4,7 +4,6 @@ h2{
     text-align: center;
 }
 h4{
-    color: rgb(0,225 , 255);
     margin: 0;
     padding: 0;
 }
@@ -21,6 +20,3 @@ body{
     backdrop-filter: blur(3px);
     
 }    
-p{
-    color: rgb(0,225 , 255);
-}
